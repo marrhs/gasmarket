@@ -23,13 +23,14 @@ p {
 }
 .container-fluid {
   margin: 0;
-  padding: 3% 10% 3%;
+  padding: 3% 7% 3%;
   background-color: #000;
 }
 
 /* Navigations */
 .navbar {
-  padding: 0 0 0 0;
+  padding: 0;
+  margin: 0;
 }
 
 .navbar-brand {
@@ -40,7 +41,7 @@ p {
 }
 
 .nav-item {
-  padding: 0 12px;
+  padding: 0 0;
 }
 
 .nav-link {
@@ -49,9 +50,7 @@ p {
 
 .service {
   margin: 0;
-  border: 1px solid;
-  padding: 3% 10% 3%;
-  border: 1px solid;
+  padding: 2% 5% 2%;
 }
 
 #footer {
