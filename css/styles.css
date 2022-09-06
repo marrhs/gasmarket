@@ -7,6 +7,7 @@ body {
 h1 {
   font-family: "Montserrat";
   font-weight: 700;
+  color: #D61C4E;
 }
 
 h2 {
@@ -23,7 +24,7 @@ p {
 }
 .container-fluid {
   margin: 0;
-  padding: 3% 6% 3%;
+  padding: 3% 5% 2%;
   background-color: #000;
 }
 
