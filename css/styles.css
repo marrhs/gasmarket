@@ -1,0 +1,40 @@
+body {
+  /* font-family: 'Julius Sans One', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: "Ubuntu";
+  font-weight: 400;
+}
+
+#title {
+
+}
+.container-fluid {
+  padding: 3% 15% 3%;
+  background-color: #FFA500;
+}
+
+/* Navigations */
+.navbar {
+  padding: 0 0 0 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+  color:white;
+}
+
+.nav-item {
+  padding: 0 12px;
+}
