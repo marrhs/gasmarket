@@ -7,7 +7,6 @@ body {
 h1 {
   font-family: "Montserrat";
   font-weight: 700;
-  text-decoration: underline;
 }
 
 h2 {
@@ -37,4 +36,8 @@ h2 {
 
 .nav-item {
   padding: 0 12px;
+}
+
+.service {
+  background-color: #FCFFE7;
 }
