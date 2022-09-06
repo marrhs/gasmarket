@@ -14,10 +14,15 @@ h2 {
   font-weight: 400;
 }
 
+p {
+  color: grey;
+  text-align: justify;
+}
 #title {
 
 }
 .container-fluid {
+  margin: 0;
   padding: 3% 10% 3%;
   background-color: #000;
 }
@@ -31,14 +36,26 @@ h2 {
   font-family: "Ubuntu";
   font-size: 1.5rem;
   font-weight: bold;
-  color: orange;
+  color:orange;
 }
 
 .nav-item {
   padding: 0 12px;
-  color: orange;
+}
+
+.nav-link {
+  color:orange;
 }
 
 .service {
-  background-color: #FCFFE7;
+  margin: 0;
+  border: 1px solid;
+  padding: 3% 10% 3%;
+  border: 1px solid;
+}
+
+#footer {
+  padding: 2% 2%;
+  background-color: #fff;
+  text-align: center;
 }
