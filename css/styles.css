@@ -19,6 +19,7 @@ p {
   color: grey;
   text-align: center;
 }
+
 #title {
 
 }
@@ -47,6 +48,14 @@ p {
 
 .nav-link {
   color:orange;
+}
+
+.img_canvas {
+  border: 2px solid;
+  border-color: orange;
+  width:300px;
+  height:300px;
+  margin-top: 5%;
 }
 
 .service {
